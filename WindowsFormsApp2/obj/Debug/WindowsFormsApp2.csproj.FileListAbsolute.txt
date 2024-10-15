@@ -1,0 +1,236 @@
+C:\Users\jerin\Desktop\TP2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\jerin\Desktop\TP2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\jerin\Desktop\TP2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\jerin\Desktop\TP2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+C:\Users\jerin\Desktop\TP2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.AgregarCliente.resources
+C:\Users\jerin\Desktop\TP2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Consulta.resources
+C:\Users\jerin\Desktop\TP2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.CrearCasa.resources
+C:\Users\jerin\Desktop\TP2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.CrearHotel.resources
+C:\Users\jerin\Desktop\TP2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.FCancelar.resources
+C:\Users\jerin\Desktop\TP2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\jerin\Desktop\TP2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Freserva.resources
+C:\Users\jerin\Desktop\TP2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Ingresar_Cliente.resources
+C:\Users\jerin\Desktop\TP2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.ListaRegistro.resources
+C:\Users\jerin\Desktop\TP2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\jerin\Desktop\TP2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\jerin\Desktop\TP2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\jerin\Desktop\TP2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\jerin\Desktop\TP2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\jerin\Desktop\TP2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.BuscarAlojamiento.resources
+C:\Users\jerin\Desktop\TP2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.CargarDatosReserva.resources
+C:\Users\jerin\Desktop\TP2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Graficas.resources
+C:\Users\jerin\Desktop\TP2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.vAyuda.resources
+D:\UTN\Laboratorio ll\TP 3\TP31.5\TP2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+D:\UTN\Laboratorio ll\TP 3\TP31.5\TP2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+D:\UTN\Laboratorio ll\TP 3\TP31.5\TP2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+D:\UTN\Laboratorio ll\TP 3\TP31.5\TP2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+D:\UTN\Laboratorio ll\TP 3\TP31.5\TP2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.AgregarCliente.resources
+D:\UTN\Laboratorio ll\TP 3\TP31.5\TP2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.BuscarAlojamiento.resources
+D:\UTN\Laboratorio ll\TP 3\TP31.5\TP2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.CargarDatosReserva.resources
+D:\UTN\Laboratorio ll\TP 3\TP31.5\TP2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Consulta.resources
+D:\UTN\Laboratorio ll\TP 3\TP31.5\TP2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.CrearCasa.resources
+D:\UTN\Laboratorio ll\TP 3\TP31.5\TP2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.CrearHotel.resources
+D:\UTN\Laboratorio ll\TP 3\TP31.5\TP2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.FCancelar.resources
+D:\UTN\Laboratorio ll\TP 3\TP31.5\TP2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+D:\UTN\Laboratorio ll\TP 3\TP31.5\TP2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Freserva.resources
+D:\UTN\Laboratorio ll\TP 3\TP31.5\TP2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Graficas.resources
+D:\UTN\Laboratorio ll\TP 3\TP31.5\TP2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Ingresar_Cliente.resources
+D:\UTN\Laboratorio ll\TP 3\TP31.5\TP2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.ListaRegistro.resources
+D:\UTN\Laboratorio ll\TP 3\TP31.5\TP2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+D:\UTN\Laboratorio ll\TP 3\TP31.5\TP2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.vAyuda.resources
+D:\UTN\Laboratorio ll\TP 3\TP31.5\TP2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+D:\UTN\Laboratorio ll\TP 3\TP31.5\TP2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+D:\UTN\Laboratorio ll\TP 3\TP31.5\TP2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+D:\UTN\Laboratorio ll\TP 3\TP31.5\TP2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\jerin\Desktop\TP31.5\TP2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\jerin\Desktop\TP31.5\TP2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\jerin\Desktop\TP31.5\TP2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\jerin\Desktop\TP31.5\TP2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+C:\Users\jerin\Desktop\TP31.5\TP2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.AgregarCliente.resources
+C:\Users\jerin\Desktop\TP31.5\TP2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.BuscarAlojamiento.resources
+C:\Users\jerin\Desktop\TP31.5\TP2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.CargarDatosReserva.resources
+C:\Users\jerin\Desktop\TP31.5\TP2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Consulta.resources
+C:\Users\jerin\Desktop\TP31.5\TP2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.CrearCasa.resources
+C:\Users\jerin\Desktop\TP31.5\TP2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.CrearHotel.resources
+C:\Users\jerin\Desktop\TP31.5\TP2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.FCancelar.resources
+C:\Users\jerin\Desktop\TP31.5\TP2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\jerin\Desktop\TP31.5\TP2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Freserva.resources
+C:\Users\jerin\Desktop\TP31.5\TP2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Graficas.resources
+C:\Users\jerin\Desktop\TP31.5\TP2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Ingresar_Cliente.resources
+C:\Users\jerin\Desktop\TP31.5\TP2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.ListaRegistro.resources
+C:\Users\jerin\Desktop\TP31.5\TP2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\jerin\Desktop\TP31.5\TP2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.vAyuda.resources
+C:\Users\jerin\Desktop\TP31.5\TP2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\jerin\Desktop\TP31.5\TP2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\jerin\Desktop\TP31.5\TP2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\jerin\Desktop\TP31.5\TP2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+D:\UTN\Laboratorio ll\TP 3\TP31.6\TP31.5\TP2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+D:\UTN\Laboratorio ll\TP 3\TP31.6\TP31.5\TP2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.AgregarCliente.resources
+D:\UTN\Laboratorio ll\TP 3\TP31.6\TP31.5\TP2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.BuscarAlojamiento.resources
+D:\UTN\Laboratorio ll\TP 3\TP31.6\TP31.5\TP2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.CargarDatosReserva.resources
+D:\UTN\Laboratorio ll\TP 3\TP31.6\TP31.5\TP2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Consulta.resources
+D:\UTN\Laboratorio ll\TP 3\TP31.6\TP31.5\TP2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.CrearCasa.resources
+D:\UTN\Laboratorio ll\TP 3\TP31.6\TP31.5\TP2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.CrearHotel.resources
+D:\UTN\Laboratorio ll\TP 3\TP31.6\TP31.5\TP2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.FCancelar.resources
+D:\UTN\Laboratorio ll\TP 3\TP31.6\TP31.5\TP2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+D:\UTN\Laboratorio ll\TP 3\TP31.6\TP31.5\TP2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Freserva.resources
+D:\UTN\Laboratorio ll\TP 3\TP31.6\TP31.5\TP2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Graficas.resources
+D:\UTN\Laboratorio ll\TP 3\TP31.6\TP31.5\TP2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Ingresar_Cliente.resources
+D:\UTN\Laboratorio ll\TP 3\TP31.6\TP31.5\TP2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.ListaRegistro.resources
+D:\UTN\Laboratorio ll\TP 3\TP31.6\TP31.5\TP2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+D:\UTN\Laboratorio ll\TP 3\TP31.6\TP31.5\TP2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.vAyuda.resources
+D:\UTN\Laboratorio ll\TP 3\TP31.6\TP31.5\TP2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+D:\UTN\Laboratorio ll\TP 3\TP31.6\TP31.5\TP2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+D:\UTN\Laboratorio ll\TP 3\TP31.6\TP31.5\TP2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+D:\UTN\Laboratorio ll\TP 3\TP31.6\TP31.5\TP2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+D:\UTN\Laboratorio ll\TP 3\TP31.6\TP31.5\TP2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+D:\UTN\Laboratorio ll\TP 3\TP31.6\TP31.5\TP2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+D:\UTN\Laboratorio ll\TP 3\TP31.6\TP31.5\TP2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+D:\UTN\Laboratorio ll\TP 3\TP31.6\TP31.5\TP2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.AcercaDe.resources
+C:\Users\betra\Desktop\TP31.5\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\betra\Desktop\TP31.5\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\betra\Desktop\TP31.5\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\betra\Desktop\TP31.5\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+C:\Users\betra\Desktop\TP31.5\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.SuggestedBindingRedirects.cache
+C:\Users\betra\Desktop\TP31.5\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.AcercaDe.resources
+C:\Users\betra\Desktop\TP31.5\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.AgregarCliente.resources
+C:\Users\betra\Desktop\TP31.5\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.BuscarAlojamiento.resources
+C:\Users\betra\Desktop\TP31.5\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.CargarDatosReserva.resources
+C:\Users\betra\Desktop\TP31.5\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Consulta.resources
+C:\Users\betra\Desktop\TP31.5\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.CrearCasa.resources
+C:\Users\betra\Desktop\TP31.5\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.CrearHotel.resources
+C:\Users\betra\Desktop\TP31.5\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.FCancelar.resources
+C:\Users\betra\Desktop\TP31.5\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\betra\Desktop\TP31.5\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Freserva.resources
+C:\Users\betra\Desktop\TP31.5\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Graficas.resources
+C:\Users\betra\Desktop\TP31.5\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Ingresar_Cliente.resources
+C:\Users\betra\Desktop\TP31.5\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.ListaRegistro.resources
+C:\Users\betra\Desktop\TP31.5\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\betra\Desktop\TP31.5\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.vAyuda.resources
+C:\Users\betra\Desktop\TP31.5\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\betra\Desktop\TP31.5\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\betra\Desktop\TP31.5\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\betra\Desktop\TP31.5\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\betra\source\repos\TP3LabIIFinal\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+C:\Users\betra\source\repos\TP3LabIIFinal\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.SuggestedBindingRedirects.cache
+C:\Users\betra\source\repos\TP3LabIIFinal\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.AcercaDe.resources
+C:\Users\betra\source\repos\TP3LabIIFinal\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.AgregarCliente.resources
+C:\Users\betra\source\repos\TP3LabIIFinal\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.BuscarAlojamiento.resources
+C:\Users\betra\source\repos\TP3LabIIFinal\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.CargarDatosReserva.resources
+C:\Users\betra\source\repos\TP3LabIIFinal\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Consulta.resources
+C:\Users\betra\source\repos\TP3LabIIFinal\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.CrearCasa.resources
+C:\Users\betra\source\repos\TP3LabIIFinal\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.CrearHotel.resources
+C:\Users\betra\source\repos\TP3LabIIFinal\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.FCancelar.resources
+C:\Users\betra\source\repos\TP3LabIIFinal\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\betra\source\repos\TP3LabIIFinal\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Freserva.resources
+C:\Users\betra\source\repos\TP3LabIIFinal\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Graficas.resources
+C:\Users\betra\source\repos\TP3LabIIFinal\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Ingresar_Cliente.resources
+C:\Users\betra\source\repos\TP3LabIIFinal\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.IngresarContraseña.resources
+C:\Users\betra\source\repos\TP3LabIIFinal\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.ListaRegistro.resources
+C:\Users\betra\source\repos\TP3LabIIFinal\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\betra\source\repos\TP3LabIIFinal\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.vAyuda.resources
+C:\Users\betra\source\repos\TP3LabIIFinal\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\betra\source\repos\TP3LabIIFinal\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\betra\source\repos\TP3LabIIFinal\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\betra\source\repos\TP3LabIIFinal\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\betra\source\repos\TP3LabIIFinal\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\betra\source\repos\TP3LabIIFinal\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\betra\source\repos\TP3LabIIFinal\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\Administrator\Downloads\TP3LabIIFinal\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\Administrator\Downloads\TP3LabIIFinal\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\Administrator\Downloads\TP3LabIIFinal\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\Administrator\Downloads\TP3LabIIFinal\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+C:\Users\Administrator\Downloads\TP3LabIIFinal\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.AcercaDe.resources
+C:\Users\Administrator\Downloads\TP3LabIIFinal\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.AgregarCliente.resources
+C:\Users\Administrator\Downloads\TP3LabIIFinal\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.BuscarAlojamiento.resources
+C:\Users\Administrator\Downloads\TP3LabIIFinal\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.CargarDatosReserva.resources
+C:\Users\Administrator\Downloads\TP3LabIIFinal\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Consulta.resources
+C:\Users\Administrator\Downloads\TP3LabIIFinal\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.CrearCasa.resources
+C:\Users\Administrator\Downloads\TP3LabIIFinal\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.CrearHotel.resources
+C:\Users\Administrator\Downloads\TP3LabIIFinal\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.FCancelar.resources
+C:\Users\Administrator\Downloads\TP3LabIIFinal\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\Administrator\Downloads\TP3LabIIFinal\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Freserva.resources
+C:\Users\Administrator\Downloads\TP3LabIIFinal\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Graficas.resources
+C:\Users\Administrator\Downloads\TP3LabIIFinal\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Ingresar_Cliente.resources
+C:\Users\Administrator\Downloads\TP3LabIIFinal\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.IngresarContraseña.resources
+C:\Users\Administrator\Downloads\TP3LabIIFinal\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.ListaRegistro.resources
+C:\Users\Administrator\Downloads\TP3LabIIFinal\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\Administrator\Downloads\TP3LabIIFinal\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.vAyuda.resources
+C:\Users\Administrator\Downloads\TP3LabIIFinal\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\Administrator\Downloads\TP3LabIIFinal\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Downloads\TP3LabIIFinal\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\Administrator\Downloads\TP3LabIIFinal\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\Administrator\source\repos\TP3LabIIFinal\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\Administrator\source\repos\TP3LabIIFinal\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\Administrator\source\repos\TP3LabIIFinal\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\Administrator\source\repos\TP3LabIIFinal\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\TP3LabIIFinal\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.AcercaDe.resources
+C:\Users\Administrator\source\repos\TP3LabIIFinal\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.AgregarCliente.resources
+C:\Users\Administrator\source\repos\TP3LabIIFinal\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.BuscarAlojamiento.resources
+C:\Users\Administrator\source\repos\TP3LabIIFinal\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.CargarDatosReserva.resources
+C:\Users\Administrator\source\repos\TP3LabIIFinal\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Consulta.resources
+C:\Users\Administrator\source\repos\TP3LabIIFinal\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.CrearCasa.resources
+C:\Users\Administrator\source\repos\TP3LabIIFinal\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.CrearHotel.resources
+C:\Users\Administrator\source\repos\TP3LabIIFinal\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.FCancelar.resources
+C:\Users\Administrator\source\repos\TP3LabIIFinal\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\Administrator\source\repos\TP3LabIIFinal\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Freserva.resources
+C:\Users\Administrator\source\repos\TP3LabIIFinal\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Graficas.resources
+C:\Users\Administrator\source\repos\TP3LabIIFinal\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Ingresar_Cliente.resources
+C:\Users\Administrator\source\repos\TP3LabIIFinal\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.IngresarContraseña.resources
+C:\Users\Administrator\source\repos\TP3LabIIFinal\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.ListaRegistro.resources
+C:\Users\Administrator\source\repos\TP3LabIIFinal\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\Administrator\source\repos\TP3LabIIFinal\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.vAyuda.resources
+C:\Users\Administrator\source\repos\TP3LabIIFinal\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\TP3LabIIFinal\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\TP3LabIIFinal\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\Administrator\source\repos\TP3LabIIFinal\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\nicox\Downloads\TP3LabIIFinal\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\nicox\Downloads\TP3LabIIFinal\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\nicox\Downloads\TP3LabIIFinal\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\nicox\Downloads\TP3LabIIFinal\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+C:\Users\nicox\Downloads\TP3LabIIFinal\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.SuggestedBindingRedirects.cache
+C:\Users\nicox\Downloads\TP3LabIIFinal\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.AcercaDe.resources
+C:\Users\nicox\Downloads\TP3LabIIFinal\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.AgregarCliente.resources
+C:\Users\nicox\Downloads\TP3LabIIFinal\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.BuscarAlojamiento.resources
+C:\Users\nicox\Downloads\TP3LabIIFinal\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.CargarDatosReserva.resources
+C:\Users\nicox\Downloads\TP3LabIIFinal\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Consulta.resources
+C:\Users\nicox\Downloads\TP3LabIIFinal\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.CrearCasa.resources
+C:\Users\nicox\Downloads\TP3LabIIFinal\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.CrearHotel.resources
+C:\Users\nicox\Downloads\TP3LabIIFinal\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.FCancelar.resources
+C:\Users\nicox\Downloads\TP3LabIIFinal\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\nicox\Downloads\TP3LabIIFinal\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Freserva.resources
+C:\Users\nicox\Downloads\TP3LabIIFinal\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Graficas.resources
+C:\Users\nicox\Downloads\TP3LabIIFinal\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Ingresar_Cliente.resources
+C:\Users\nicox\Downloads\TP3LabIIFinal\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.IngresarContraseña.resources
+C:\Users\nicox\Downloads\TP3LabIIFinal\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.ListaRegistro.resources
+C:\Users\nicox\Downloads\TP3LabIIFinal\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\nicox\Downloads\TP3LabIIFinal\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.vAyuda.resources
+C:\Users\nicox\Downloads\TP3LabIIFinal\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\nicox\Downloads\TP3LabIIFinal\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\nicox\Downloads\TP3LabIIFinal\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\nicox\Downloads\TP3LabIIFinal\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\Administrator\Desktop\TP3LabIIFinal\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\Administrator\Desktop\TP3LabIIFinal\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\Administrator\Desktop\TP3LabIIFinal\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\Administrator\Desktop\TP3LabIIFinal\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\TP3LabIIFinal\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.AcercaDe.resources
+C:\Users\Administrator\Desktop\TP3LabIIFinal\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.AgregarCliente.resources
+C:\Users\Administrator\Desktop\TP3LabIIFinal\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.BuscarAlojamiento.resources
+C:\Users\Administrator\Desktop\TP3LabIIFinal\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.CargarDatosReserva.resources
+C:\Users\Administrator\Desktop\TP3LabIIFinal\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Consulta.resources
+C:\Users\Administrator\Desktop\TP3LabIIFinal\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.CrearCasa.resources
+C:\Users\Administrator\Desktop\TP3LabIIFinal\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.CrearHotel.resources
+C:\Users\Administrator\Desktop\TP3LabIIFinal\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.FCancelar.resources
+C:\Users\Administrator\Desktop\TP3LabIIFinal\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\Administrator\Desktop\TP3LabIIFinal\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Freserva.resources
+C:\Users\Administrator\Desktop\TP3LabIIFinal\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Graficas.resources
+C:\Users\Administrator\Desktop\TP3LabIIFinal\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Ingresar_Cliente.resources
+C:\Users\Administrator\Desktop\TP3LabIIFinal\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.IngresarContraseña.resources
+C:\Users\Administrator\Desktop\TP3LabIIFinal\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.ListaRegistro.resources
+C:\Users\Administrator\Desktop\TP3LabIIFinal\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\Administrator\Desktop\TP3LabIIFinal\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.vAyuda.resources
+C:\Users\Administrator\Desktop\TP3LabIIFinal\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\TP3LabIIFinal\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\TP3LabIIFinal\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\Administrator\Desktop\TP3LabIIFinal\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\Administrator\Desktop\TP3LabIIFinal\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Formularios.FagregarCasaFinde.resources
